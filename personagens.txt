@@ -9,3 +9,4 @@ Rey
 Finn
 Kylo Ren
 Poe Dameron
+General Hux
