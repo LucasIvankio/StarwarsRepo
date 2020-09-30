@@ -1,5 +1,7 @@
 # Star Wars Repo
 
-![./NaveStarWars.png](Xwing)
+![XWing](./NaveStarWars.png)
 
 Este repositório serve de exemplo para o curso de GIT
+
+...
